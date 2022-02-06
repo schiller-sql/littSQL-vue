@@ -1,2 +1,2 @@
 littSQL
-lit up your sql
+lit up your sql!
